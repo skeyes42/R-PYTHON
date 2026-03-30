@@ -1,0 +1,15 @@
+# A tibble: 12 × 9
+   GAME_ID   FGM   FGA  FG3M  FG3A   FTM   FTA PLAYER_NAME TEAM_NAME
+     <int> <int> <int> <int> <int> <int> <int> <chr>       <chr>    
+ 1    1000    10    13    12    13    12    12 Fred        Pacers   
+ 2    1000     4    16     4     8     7     8 John        Pacers   
+ 3    1000     2    20     6    13     5    12 Trevor      Wizards  
+ 4    1000     8    16     2     8     7     8 Alex        Wizards  
+ 5    2000    10    21     4    13    10    12 Fred        Pacers   
+ 6    2000    11    16     5     8     4     8 John        Pacers   
+ 7    2000     8    14    10    13     9    12 Jim         Celtics  
+ 8    2000     7    16     6     8     3     8 Steve       Celtics  
+ 9    3000     5    13     7    13     9    12 Trevor      Wizards  
+10    3000     3    17     2     8     6     8 Alex        Wizards  
+11    3000     4     8     4    13    11    12 Jim         Celtics  
+12    3000     8    16     3     8     3     8 Steve       Celtics  

@@ -1,0 +1,8 @@
+{
+    "r.rterm.linux": "<path to R executable in rpy-nba-book environment>",
+    "r.rpath.linux": "<path to R executable in rpy-nba-book environment>",
+    "python.defaultInterpreterPath": "<path to python executable in rpy-nba-book>",
+    "terminal.integrated.env.linux": {
+        "EXAMPLES": "<path to Boxscores.db>"
+    }
+}

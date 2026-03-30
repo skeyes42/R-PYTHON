@@ -1,0 +1,9 @@
+{
+    "r.rterm.linux": "/home/stevie/anaconda3/envs/rpy-nba-book/bin/R",
+    "r.rpath.linux": "/home/stevie/anaconda3/envs/rpy-nba-book/bin/R",
+    "python.defaultInterpreterPath": "/home/stevie/anaconda3/envs/rpy-nba-book/bin/python",
+    "terminal.integrated.env.linux": {
+        "EXAMPLES": "/home/stevie/DLUBU/EXAMPLES/DATA/Boxscores/"
+    },
+    "r.lsp.promptToInstall": false
+}

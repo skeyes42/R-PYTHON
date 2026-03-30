@@ -1,0 +1,38 @@
+name: rpy-nba-book
+channels:
+  - conda-forge
+  - pypi
+  - defaults
+dependencies:
+  # Python core and libraries
+  - python=3.11
+  - pandas
+  - numpy
+  - git
+  - sqlite
+  - matplotlib
+  - seaborn
+  - dataclasses
+  - typing
+  - rpy2
+  - attrs
+  - pip
+  - pip:
+    - pandastable
+    - nba_api
+  
+  # R core and packages
+  - r-base=4.3
+  - r-dplyr
+  - r-tidyverse
+  - r-DBI
+  - r-RSQLite
+  - r-dbplyr
+  - r-readr
+  - r-stringr
+  - r-rhandsontable
+  - r-ggplot2
+  - r-reticulate
+  - r-S7
+  - r-janitor
+
